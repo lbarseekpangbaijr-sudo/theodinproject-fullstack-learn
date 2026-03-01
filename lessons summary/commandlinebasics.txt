@@ -1,0 +1,31 @@
+//Due for a summary of the lesson "Command Line Basics"// D-01\M-03\Y-2026
+
+The command line or terminal is an application program that emulates that of theoriginal terminal programs. It is there that commands are given directly to the machine to executed.
+
+In this lesson we learn to navigate the directories/folders and to manipulate/perform operations on them.
+
+Commands for navagation
+=======================
+- pwd; this command show the path of the current directory of the user. 
+- ls; this command is use to list all the content within a directory.
+- cd; this command is use to change the current directory to another one.
+- cd ~; this command is use to change the current directory to root directory.
+- cd .;this command is use to change the current directory to home direcotory.
+- cd ..; this command is use to change the current directory to previous one.
+
+NOTE: when navigating through directories, multiple directories can be chained together for a faster or efficient navigation.
+
+Commands for manipulation
+=========================
+- mkdir; this command is use to create directories/folders.
+- rmdir; this command is use to delete directories/folders.
+- touch; this command is use to create a file of any type.
+- rm; this command is use to delete a file of any type.
+- mv; this command have two purposes: the first is to move the contents of a directory or file to another and the second is to rename a directory or file.
+- cp; this command is used to the contents of a directory or file to another.
+- chown; this command is use to change the permissions of a directory or file.
+- chgrp; this command is use to change the owner/user of a directory or file.
+
+NOTE: a file can be open using any app in the terminal by typing the name of the app as a command and the directory path as a parameter.
+
+//Completed// D-01/M-03/Y-2026
